@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "username": "simant",
+      "password": "1234",
+      "firstName": "Simant",
+      "lastName": "Gautam",
+      "Dob": "Oct 02, 2023",
+      "contact": "8744828172",
+      "email": "gautam8178838469@gmail.com",
+      "id": 8,
+      "name": "Sourabh Gautam"
+    }
+  ]
+}
